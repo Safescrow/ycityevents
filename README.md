@@ -1,2 +1,2 @@
 # ycityevents
-An event ticketing system
+Find events in and around Yenagoa. Sell and buy event tickets. 
